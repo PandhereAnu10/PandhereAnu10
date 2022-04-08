@@ -36,3 +36,5 @@
 
 ![Snake animation](https://github.com/PandhereAnu10/PandhereAnu10/blob/output/github-contribution-grid-snake.svg)
 
+<img src="https://activity-graph.herokuapp.com/graph?username=PandhereAnu10&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
+
