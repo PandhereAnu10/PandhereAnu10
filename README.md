@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PandhereAnu10&&show_icons=true&title_color=c71585&icon_color=ffff00&text_color=daf7dc&bg_color=151515" alt="pandhereanu10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandhereanu10&show_icons=true&locale=en" alt="pandhereanu10" /></p>
+
 
