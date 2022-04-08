@@ -22,8 +22,8 @@
 <a href="https://auth.geeksforgeeks.org/user/pandhereanu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pandhereanu10" height="30" width="40" /></a>
 </p>
 
-<div align="left">
-  <hr  width="70%"/>
+<div align="center">
+  <hr  width="100%"/>
   </div>
 
 <h1 align="left">Languages and Tools:</h1>
@@ -31,21 +31,21 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PandhereAnu10&&show_icons=true&title_color=c71585&icon_color=ffff00&text_color=daf7dc&bg_color=151515" alt="pandhereanu10" /></p>
 
-<div align="left">
-  <hr  width="70%"/>
+<div align="center">
+  <hr  width="100%"/>
   </div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandhereAnu10&theme=radical" alt="PandherAnu10 Streak">
 
-<div align="left">
-  <hr  width="70%"/>
+<div align="center">
+  <hr  width="100%"/>
   </div>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PandhereAnu10&show_icons=true&title_color=c71585&icon_color=ffff00&bg_color=151515&locale=en&layout=compact&text_color=daf7dc&theme=chartreuse-dark" width="450" alt="Languages">
 
-<div align="left">
-  <hr  width="70%"/>
+<div align="center">
+  <hr  width="100%"/>
   </div>
 
 <h1 align="left">Contribution Grid</h1>
