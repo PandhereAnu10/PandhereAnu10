@@ -32,6 +32,9 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandhereAnu10&theme=radical" alt="PandherAnu10 Streak">
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PandhereAnu10&show_icons=true&title_color=c71585&icon_color=ffff00&bg_color=151515&locale=en&layout=compact&text_color=daf7dc&theme=chartreuse-dark" width="450" alt="Languages">
+
 <h1 align="left">Contribution Grid</h1>
 
 ![Snake animation](https://github.com/PandhereAnu10/PandhereAnu10/blob/output/github-contribution-grid-snake.svg)
