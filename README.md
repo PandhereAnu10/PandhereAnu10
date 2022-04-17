@@ -48,6 +48,8 @@
   <hr  width="100%"/>
   </div>
 
+# Leave :star2: if you like it :smiley:
+
 <h1 align="left">Contribution Grid</h1>
 
 ![Snake animation](https://github.com/PandhereAnu10/PandhereAnu10/blob/output/github-contribution-grid-snake.svg)
