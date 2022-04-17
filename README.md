@@ -1,17 +1,19 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitProfile](https://user-images.githubusercontent.com/94095894/162251279-793e4194-3037-4fd5-9c90-f370cdb0b5c3.jpg)
 
-<h1 align="center">Hey All 👋, I'm Anushka Pandhere</h1>
+<h1 align="center">Hey All 👋, I'm Anushka Pandhere :smiley:</h1>
 <h3 align="center">Enthusiast Coder | Love to Solve Problems | Ready to distribute knowledge that I have</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandhereanu10&label=Profile%20views&color=0e75b6&style=flat" alt="pandhereanu10" /> </p>
 
-- 🌱 I’m currently learning **ReactJS & Data Science with Python**
+- :book: I’m currently learning **ReactJS & Data Science with Python**
 
-- 📝 I regularly write articles on [https://stackoverflow.com/users/18606181/](https://stackoverflow.com/users/18606181/)
+- 📝 I regularly write articles on [https://stackoverflow.com/users/18606181/](https://stackoverflow.com/users/18606181/) If you like my articles then give upvote :v: it will encourage me to do more
 
-- 💬 Ask me about **Wordpress, Data Structure & Algorithms.**
+-  :speech_balloon: Ask me about **Wordpress, Data Structure & Algorithms.**
 
-- 📫 If you like my Repos then let shout out me @ **anushka.pandhere10@gmail.com**
+- :open_hands: I would like to collaborate for more **ReactJS Project.**
+
+- :email: If you like my Repos then let shout out me @ **anushka.pandhere10@gmail.com**
 
 
 <h1 align="left">Connect with me:</h1>
