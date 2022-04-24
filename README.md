@@ -7,7 +7,7 @@
 
 - :book: I’m currently learning **ReactJS & Data Science with Python**
 
-- 📝 I regularly write articles on [https://stackoverflow.com/users/18606181/](https://stackoverflow.com/users/18606181/) If you like my articles then give upvote :v: it will encourage me to do more
+- 📝 I regularly write articles on https://medium.com/@anushka.pandhere10 If you like my articles then give upvote :v: it will encourage me to do more
 
 -  :speech_balloon: Ask me about **Wordpress, Data Structure & Algorithms.**
 
