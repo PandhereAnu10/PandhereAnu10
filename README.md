@@ -60,5 +60,3 @@
   <hr  width="100%"/>
   </div>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=PandhereAnu10&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
-
