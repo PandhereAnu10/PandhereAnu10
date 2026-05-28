@@ -54,7 +54,7 @@
 
 <h1 align="left">Contribution Grid</h1>
 
-![Snake animation](https://github.com/PandhereAnu10/PandhereAnu10/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PandhereAnu10/PandhereAnu10/blob/output/github-contribution-grid-snake2.svg)
 
 <div align="center">
   <hr  width="100%"/>
